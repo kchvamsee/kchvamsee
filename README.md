@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Vamsee 👋
 
-<!--
-**kchvamsee/kchvamsee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ECE student at VIT focused on Embedded Systems, IoT, and TinyML.
 
-Here are some ideas to get you started:
+## 🔧 What I have worked on
+- ESP32-based embedded systems
+- IoT with cloud integration (ThingSpeak)
+- TinyML (Edge Impulse)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔥 BoxTrack – TinyML Boxing Move Detection (ESP32-S3, IMU)
+- 🧊 IoT Smart Fridge Monitor (ESP32, Sensors, Cloud Alerts)
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/ch-vamsee-krishna-5b3751326
